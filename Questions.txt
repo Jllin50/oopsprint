@@ -1,0 +1,21 @@
+What, in your opinion, is an important part of code reviews? That is, what is
+  something you pay attention to when you review code, and that you appreciate
+  when others do the same for your code?
+
+    One important part of code reviews is finding ways to improve existing code, even
+if there is nothing wrong with it. By finding ways to simplify or speed up existing code people can
+help each other become better programmers overall. Something that I appreaciate about code reviews is that because
+other people have different levels of coding experience than myself, they often show me other ways to solve a problem. For example a beginning coder
+might point out a simpler, more basic solution where I might be over complicating things.
+
+
+
+We have an awful lot of computers here, and it gets pretty confusing with
+  slightly different things running on all of them. How could containers help us
+  improve this situation?
+
+Containers such as the ones we used with docker can help code become reproducible. 
+This means that on each of the acme corp. computers we could connect to a container and have it load 
+all the code. Imagine if the company had to manually load the files on to each computer or even worse write
+the code to each computer. Containers can save a lot of time and money as they allow code to seamlessly get distributed accross
+multiple systems, which would otherwise require a lot of developer time. 
